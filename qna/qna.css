@@ -1,0 +1,46 @@
+#jb-container {
+    width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #bcbcbc;
+}
+
+#jb-content {
+    width: 1080px;
+    padding: 10px;
+    margin-bottom: 20px;
+    float: left;
+    border: 1px solid #bcbcbc;
+}
+#jb-sidebar {
+    width: 260px;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: right;
+    border: 1px solid #bcbcbc;
+}
+
+.width {
+    width: 100px;
+}
+
+.re_ct {
+    font-weight:bold;
+    color:green;
+}
+
+#page_num {
+    font-size: 14px;
+    margin-left: 260px;
+    margin-top:30px; 
+}
+#page_num ul li {
+    float: left;
+    margin-left: 10px; 
+    text-align: center;
+    list-style: none;
+}
+.fo_re {
+    font-weight: bold;
+    color:red;
+}
